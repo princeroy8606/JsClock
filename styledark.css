@@ -1,0 +1,10 @@
+.header{
+    background-color: blue;
+    width: 100%;
+}
+.header h1{
+color: yellow;
+}
+.header p{
+    color: orange;
+}
